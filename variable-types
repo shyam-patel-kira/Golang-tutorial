@@ -1,0 +1,2 @@
+Variable declaration in golang
+var variable_list optional_data_type;

@@ -23,3 +23,4 @@ A Go program basically consists of the following parts −
 	Variables
 	Statements and Expressions
 	Comments
+Few Tokens - Identifiers, comments, Line seperators, keywords, whitespace in Go
